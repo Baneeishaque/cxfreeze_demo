@@ -1,1 +1,1 @@
-cx_Freeze
+cx_Freeze==6.6
